@@ -1,2 +1,2 @@
-# Data-Augumentation-for-CNN
+# Data-Augmentation-for-CNN
 This code can be used and transfer freely, however, the reference should be given  @https://github.com/vijayagril
